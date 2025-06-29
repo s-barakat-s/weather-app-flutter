@@ -23,8 +23,6 @@ This project is part of my Flutter learning journey through **Tharwat Samy's cou
 | ------------------------------- | --------------------------------- | --------------------------------- |
 | ![empty](Screenshot 2025-06-29 130109.png) | ![search](screenshots/search.png) | ![result](screenshots/result.png) |
 
----
-
 ## 🛠 Tech Stack
 
 - **Flutter**
@@ -39,6 +37,7 @@ This project is part of my Flutter learning journey through **Tharwat Samy's cou
 ```bash
 flutter pub get
 flutter run
+```
 
 ---
 
@@ -55,4 +54,3 @@ flutter run
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/s-barakat-s)
 Or check out more on [GitHub](https://github.com/s-barakat-s)
-```
