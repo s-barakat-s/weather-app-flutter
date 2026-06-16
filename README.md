@@ -21,7 +21,7 @@ This project is part of my Flutter learning journey through **Tharwat Samy's cou
 
 | Empty State                     | Search                            | Weather Result                    |
 | ------------------------------- | --------------------------------- | --------------------------------- |
-| ![empty](Screenshot 2025-06-29 130109.png) | ![search](screenshots/search.png) | ![result](screenshots/result.png) |
+| ![empty](screenshots/empty.png) | ![search](screenshots/search.png) | ![result](screenshots/result.png) |
 
 ## 🛠 Tech Stack
 
